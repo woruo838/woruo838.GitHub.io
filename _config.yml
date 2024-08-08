@@ -12,7 +12,7 @@ title                    : "Haoyu Yang / Personal page"
 title_separator          : "-"
 name                     : &name "Haoyu Yang"
 description              : &description "A master in HongKong"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://woruo838.github.io"
+url                      : https://woruo838.github.io # the base hostname & protocol for your site e.g. "https://woruo838.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "woruo838/woruo838.github.io"
 
