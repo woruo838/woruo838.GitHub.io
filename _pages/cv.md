@@ -12,14 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Peking University, 2025 (expected)
-* M.S. in Data Science, City University HongKong, 2023
+* M.S. in Data Science, City University of HongKong, 2023
 * B.S. in Transportation, JiLin University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* 2024.5-2024.8: Imaging Algorithm Engineer
+  * ShenZhen,OPPO
+  * Duties includes:
+• Development and compilation of image processing tools. Use git for code collaborative development, output results and visualize, and provide reference for image evaluation;
+• Participated in OPPO imaging decision-making, formulated target effects and standards for multi-racial skin tones, and made suggestions for the development of standards through data analysis;
+• Responsible for modifying and debugging face detection algorithms, code development and debugging for the extraction algorithm part of skin color areas, and involving the development and debugging of multiple algorithms such as multi-camera consistency and video delay testing, writing code in Python, testing data and debugging in pycharm.
+
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
