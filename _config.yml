@@ -21,9 +21,9 @@ repository               : "woruo838/woruo838.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "woruo838.png"
   name             : "Haoyu Yang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he" # example: "she/her"  
   bio              : "It's better to burn out than to fade away."
   location         : "HongKong"
   employer         : "City university of HongKong"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "woruo838"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "kk"# Username
   zhihu            : # URL
 
 
